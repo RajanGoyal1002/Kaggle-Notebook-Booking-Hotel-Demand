@@ -15,9 +15,9 @@ I analyzed the hotel booking demand dataset using logistic regression to predict
 
 # Steps followed
 
-Data Analysis
-2] Data Cleaning(Delete duplicates etc..)
-3] Data Munging (Outliers, Null values)
-4] Data Visualization
-5] Machine learning (Logistic Regression)
+1. Data Analysis
+2. Data Cleaning(Delete duplicates etc..)
+3. Data Munging (Outliers, Null values)
+4. Data Visualization
+5. Machine learning (Logistic Regression)
 
